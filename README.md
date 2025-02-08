@@ -1,6 +1,8 @@
 # file
 **文件托管仓库
 
+http://lolimoe.duckdns.org/
+
 CloudFlare：test1.jsdelivr.net/gh/ix520/file@main/
 
 CloudFlare：testingcf.jsdelivr.net/gh/ix520/file@main/
