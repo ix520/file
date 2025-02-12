@@ -4,7 +4,7 @@ body:after {
    inset: 0;
    background-color: white;
    z-index: 999;
-   background-image: url(./img/yuanshen.svg);
+   background-image: url(https://cdn.jsdelivr.net/gh/ix520/file@main/img/yuanshen.svg);
    background-repeat: no-repeat;
    background-position: center;
    background-size: 30%;
