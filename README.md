@@ -3,9 +3,12 @@
 
 http://file.moe.dedyn.io/
 
+jsdelivr
+cdn.jsdelivr.net/gh/ix520/file@main/
+
 CloudFlare：test1.jsdelivr.net/gh/ix520/file@main/
 
-CloudFlare：testingcf.jsdelivr.net/gh/ix520/file@main/
+testingcf.jsdelivr.net/gh/ix520/file@main/
 
 Fastly：fastly.jsdelivr.net/gh/ix520/file@main/
 
