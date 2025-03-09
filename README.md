@@ -1,7 +1,7 @@
 # file
-**文件托管仓库
+**file仓库
 
-http://lolimoe.duckdns.org/
+http://file.moe.dedyn.io/
 
 CloudFlare：test1.jsdelivr.net/gh/ix520/file@main/
 
